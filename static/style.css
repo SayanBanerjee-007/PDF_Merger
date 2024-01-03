@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+#content{
+    color: aliceblue;
+}
+#heading{
+    text-align: center;
+    color: purple;
+}
+#navCon{
+    color: greenyellow;
+    font-size: large;
+}
+
